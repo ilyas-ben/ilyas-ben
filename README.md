@@ -17,9 +17,9 @@
 
 ### 🧠 Technical Skills
 
-**Frontend:** HTML5, CSS, **JavaScript**, **Node.js**, **React.js**, **AngularJS**
+**Frontend:** HTML5, CSS, **JavaScript**, **Node.js**, **React.js**, **Angular**
 
-**Backend:** **Java**, **Maven**, **Spring Boot**, **Spring Security**, JHipster, **Hibernate**, Struts2, JUnit, Mockito, **PHP**, Symfony 7.1, Python, MySQL, PostgreSQL, C, C++
+**Backend:** **Java**, **Maven**, **Spring Boot**, **Spring Security**, **Spring Cloud** , **Microservices**, JHipster, **Hibernate**, JUnit, Mockito, Python, MySQL, PostgreSQL
 
 **DevOps:** Docker, Linux, Git, GitLab CI/CD, GitHub Actions, SonarQube, Amazon Web Services
 
@@ -29,9 +29,9 @@
 
 ### 📌 Projects Highlights
 
-- **MedicalHub** – Patient appointment manager for clinics
-- **GeekStoreV2** – Full-featured e-commerce backend with Spring Boot
-- **ProjectManager** – Collaborative project management platform (WIP)
+- **MedicalHub** – Patient appointment manager for clinics with **Angular** .
+- **GeekStoreV2** – Full-featured e-commerce backend with **Spring Boot** and **React**
+- **ProjectManager** – Collaborative project management platform (WIP) with **Microservice architecture** using **Spring Cloud**.
 
 ---
 
