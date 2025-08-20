@@ -30,7 +30,7 @@
 ### 📌 Projects Highlights
 
 - **MedicalHub** – Patient appointment manager for clinics with **Angular** .
-- **GeekStoreV2** – Full-featured e-commerce backend with **Spring Boot** and **React**
+- **GeekStoreV2** – Full-featured full stack e-commerce with **Spring Boot** and **React**
 - **ProjectManager** – Collaborative project management platform (WIP) with **Microservice architecture** using **Spring Cloud**.
 
 ---
