@@ -29,9 +29,11 @@
 
 ### 📌 Projects Highlights
 
-- **MedicalHub** – Patient appointment manager for clinics with **Angular** .
-- **GeekStoreV2** – Full-featured full stack e-commerce with **Spring Boot** and **React**
-- **ProjectManager** – Collaborative project management platform (WIP) with **Microservice architecture** using **Spring Cloud**.
+- **CustomerManagement** – Collaborative project management platform (WIP) with **Microservice architecture** using **Spring Cloud**. [Repo](https://github.com/ilyas-ben/CustomerManagement)  
+- **CateringHub** – Manages catering events and customer orders, streamlining event planning and order tracking for caterers, with **Angular** and **Spring Boot**. [Repo](https://github.com/ilyas-ben/CateringHub) 
+- **MedicalHub** – Patient appointment manager for clinics with **Angular** and **Spring Boot**. [Repo](https://github.com/ilyas-ben/MedicalHub)  
+- **ProductManagement** – Platform for managing products and orders, using **React** and **Spring Boot**. [Repo](https://github.com/ilyas-ben/ProductManagement)  
+- **GeekStore** – Full-featured full stack e-commerce with **Spring Boot** and **React**. [Repo](https://github.com/ilyas-ben/GeekStore)
 
 ---
 
